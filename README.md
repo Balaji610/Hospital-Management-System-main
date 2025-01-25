@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://github.com/ajsat007/Hospital-Management-System/blob/main/1631271495780.png" alt="Project logo"></a>
+ alt="Project logo"></a>
 </p>
 
 <h3 align="center">Hospital Management System Using Java</h3>
@@ -54,7 +54,7 @@ Java 17 or higher.
 2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
 ```
-https://github.com/ajsat007/Hospital-Management-System.gitGive the example
+https://github.com/Balaji610/Hospital-Management-System-main Give the example
 ```
 
 3.Imported it in Intellij IDEA or any other Java IDE.
@@ -65,25 +65,25 @@ https://github.com/ajsat007/Hospital-Management-System.gitGive the example
 
 ## 🎈 Login Panels  <a name="usage"></a>
 
-## ![1682503871930](https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(496).png)Admin  Login Panel :-
+## ![1682503871930](https://github.com/Balaji0610/Hospital-Management-System/blob/main/screenshot/Screenshot%20(496).png)Admin  Login Panel :-
 
 
 
 ## Receptionist Login Panel:-
 
-![1682503975604](https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(498).png)
+![1682503975604](https://github.com/balaji0610/Hospital-Management-System/blob/main/screenshot/Screenshot%20(498).png)
 
-## Doctor Login Panel:-
+## Doctor Login Panel:-0
 
-![1682503959590](https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(499).png)
+![1682503959590](https://github.com/balaji0610/Hospital-Management-System/blob/main/screenshot/Screenshot%20(499).png)
 
 ## Pharmacy:-
 
-![1682504123490](https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(500).png)
+![1682504123490](https://github.com/balaji0610/Hospital-Management-System/blob/main/screenshot/Screenshot%20(500).png)
 
 ## 🎈Admin Panels  <a name="usage"></a>
 
-![1682504402931](https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(555).png)
+![1682504402931](https://github.com/balaji0610/Hospital-Management-System/blob/main/screenshot/Screenshot%20(555).png)
 
 ## Features in Admin Panel:-
 
@@ -131,7 +131,7 @@ https://github.com/ajsat007/Hospital-Management-System.gitGive the example
 
 ## 🎈Receptionist Portal:-
 
-![1682504847311](https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(551).png)
+![1682504847311](https://github.com/balaji0610/Hospital-Management-System/blob/main/screenshot/Screenshot%20(551).png)
 
 ## Features of Receptioninst Portal:-
 
@@ -141,7 +141,7 @@ https://github.com/ajsat007/Hospital-Management-System.gitGive the example
 
 ## 🎈Doctor Portal:-
 
-![1682506047517](https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(552).png)
+![1682506047517](https://github.com/balaji0610/Hospital-Management-System/blob/main/screenshot/Screenshot%20(552).png)
 
 ## Features of Doctor Portal :-
 
@@ -150,7 +150,7 @@ https://github.com/ajsat007/Hospital-Management-System.gitGive the example
 
 ## 🎈Pharmacy :-
 
-![1682506283106](https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(500).png)
+![1682506283106](https://github.com/balaji0610/Hospital-Management-System/blob/main/screenshot/Screenshot%20(500).png)
 
 ## Features of  Pharmacy Portal :-
 
@@ -166,7 +166,7 @@ https://github.com/ajsat007/Hospital-Management-System.gitGive the example
 
 # ✍️ Authors <a name = "authors"></a>
 
-- [@ajsat007 ](https://github.com/ajsat007)Ajinkya Satkar - Idea & Initial work
+- [@balaji0610 ](https://github.com/balaji0610) Balaji.R - Idea & Initial work
 
 # 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
